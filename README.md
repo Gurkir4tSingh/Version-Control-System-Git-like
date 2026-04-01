@@ -94,7 +94,7 @@ GitLiteVCS/
 ## How to Run
 
 ### Requirements
-- **Java 17 or later** — download from https://adoptium.net
+- **Java 17 or later**
 
 ### Linux / macOS
 ```bash
